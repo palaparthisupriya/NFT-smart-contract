@@ -22,7 +22,7 @@ Dockerfile: Configuration for the containerized test environment.
 
 hardhat.config.js: Hardhat toolchain configuration.
 
-## Docker Instructions (Mandatory for Evaluation)
+## Docker Instructions 
 The environment is designed to be built and run without any manual intervention or external dependencies.
 
 1. Build the Image
